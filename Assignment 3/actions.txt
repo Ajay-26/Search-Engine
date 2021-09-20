@@ -1,0 +1,12 @@
+queryFindPositionsOfWordInAPage stack stack_datastructure
+addPage stack_cprogramming
+queryFindPagesWhichContainWord data
+queryFindPagesWhichContainWord single
+addPage stack_oracle
+queryFindPagesWhichContainWord pops
+queryFindPagesWhichContainWord stack
+queryFindPagesWhichContainWord wikipedia
+addPage stacklighting
+addPage stackmagazine
+queryFindPositionsOfWordInAPage light stackmagazine
+queryFindPagesWhichContainWord Stack
